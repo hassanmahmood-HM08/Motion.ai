@@ -1,0 +1,6 @@
+{
+  "name": "Motion.ai",
+  "description": "Convert photos into cinematic AI videos using advanced motion styling, aspect ratio, and camera direction controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
